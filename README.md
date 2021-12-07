@@ -4,7 +4,7 @@
 https://drive.google.com/file/d/1XNIhHMv75G6wRZT4NroVtJuXrYllcdEz/view?usp=sharing
 
 - Example Report 2
-https://drive.google.com/file/d/1XNIhHMv75G6wRZT4NroVtJuXrYllcdEz/view?usp=sharing
+https://drive.google.com/file/d/1RaZuOmeSrDqmLfAdov3uNhK_CX7LMY_V/view?usp=sharing
 
 
 ![İsim](https://github.com/mkorkmz/data-monitoring-system/blob/main/1.jpg?raw=true)
